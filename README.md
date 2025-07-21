@@ -45,6 +45,9 @@ This project involves managing and analyzing data in a fictional bank database c
 
 ![split-names-mysql-workbench](https://github.com/samiksha29-patil/Bank-Dataset-Analysis-in-SQL./raw/main/Bank%20Data%201.jpeg)
 
+### 📌 account-transaction-summary-sql
+
+![account-transaction-summary-sql](https://github.com/samiksha29-patil/Bank-Dataset-Analysis-in-SQL./raw/main/Bank%20Data%202.jpeg)
 
 ---
 
