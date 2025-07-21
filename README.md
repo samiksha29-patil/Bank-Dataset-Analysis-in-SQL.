@@ -55,6 +55,12 @@ This project involves managing and analyzing data in a fictional bank database c
 ![loan-analysis-queries-mysql](https://github.com/samiksha29-patil/Bank-Dataset-Analysis-in-SQL./raw/main/Bank%20Data%203.jpeg)
 
 
+### 📌 atm-loan-creditcard-analysis-sql
+
+![atm-loan-creditcard-analysis-sql](https://github.com/samiksha29-patil/Bank-Dataset-Analysis-in-SQL./raw/main/Bank%20Data%204.jpeg)
+
+
+
 ---
 
 ## 👥 Join Operations
