@@ -41,6 +41,11 @@ This project involves managing and analyzing data in a fictional bank database c
 * Find loans with interest rates above a threshold.
 * Identify credit cards exceeding their credit limit.
 
+  ### 📌 Spilt Names mysql-workbench
+
+![split-names-mysql-workbench](https://github.com/samiksha29-patil/Bank-Dataset-Analysis-in-SQL./raw/main/Bank%20Data%201.jpeg)
+
+
 ---
 
 ## 👥 Join Operations
