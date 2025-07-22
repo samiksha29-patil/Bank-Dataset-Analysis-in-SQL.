@@ -60,9 +60,7 @@ This project involves managing and analyzing data in a fictional bank database c
 ![atm-loan-creditcard-analysis-sql](https://github.com/samiksha29-patil/Bank-Dataset-Analysis-in-SQL./raw/main/Bank%20Data%204.jpeg)
 
 
-### 📌 customer-categorization-age-analysis-sql
-
-![customer-categorization-age-analysis-sql](https://github.com/samiksha29-patil/Ban)
+![Bank Data](https://raw.githubusercontent.com/samiksha29-patil/Bank-Dataset-Analysis-in-SQL./main/Bank%20Data%205.jpeg)
 
 ---
 
